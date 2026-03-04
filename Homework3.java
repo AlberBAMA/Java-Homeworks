@@ -1,10 +1,6 @@
 import javax.swing.JOptionPane;
 
-/**
- * Exercise: Mass and Weight
- * This program calculates the weight of an object
- * and determines if it is too heavy or too light.
- */
+
 
 public class Homework3
 {
